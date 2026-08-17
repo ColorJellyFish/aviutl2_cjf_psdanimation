@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# === 公開禁止 (private-only) ===
+aviutl2_sdk/
+build/
+release/
+
+# エディタ設定（公開しない）
+.cursor/
